@@ -21,17 +21,18 @@ Uncover meaningful insights and patterns within the loan approval proces of Lend
 
 ## Conclusions
 - Factors for predicting defaulting  
-    - DTI  being higher-
-    - Lesser Annual income
-    - Longer term(60 month)
-    - Public record of Bankruptcies is higher
-    - Home status  Mortgage or rent
-    - High Interest Rate
-    - Grade
+    1) DTI   being higher
+    2) Lesser Annual income
+    3) Longer term(60 month)
+    4) Number of Public record of Bankruptcies  is higher
+    5) Home status  as Mortgage or rent
+    6) Higher Interest Rate
+    7) Higher Installment.
 - Other factor should be enforced
-    - Enforce verification process for loan approval process. 20% loans are not verified.
-    - Borrower with higher grade is risky as their interest rate is higher
-    - Borrower  with 10+  year experience , having higher risk than others.
+    1) Enforce verification process for loan approval process. 20% loans are not verified
+    2) Borrower with higher grade(E and F) is risky as their interest rate is higher
+    3) Borrower  with 10+  year experience , having higher risk than other.
+
 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
